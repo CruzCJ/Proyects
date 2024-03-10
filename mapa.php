@@ -17,7 +17,7 @@
 
         <!--Elemento Principal-->
         <div class="container-form mx-auto">
-            <h1 class="text-center">Nuestras sedes</h1>
+            <h1 class="text-center">Nuestr</h1>
             <!--Elemento Contenido-->
             <div id="contenido">
                 <fieldset>

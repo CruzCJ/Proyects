@@ -58,7 +58,7 @@ include "admin/config.php";
     <section>
         <main class="text-center">
             <div class="row justify-content-evenly align-items-center">
-                <h2 class="col-sm-12 mb-3  text-center">Propiedades</h2>
+                <h2 class="col-sm-12 mb-3  text-center">Nada hay</h2>
 
                 <?php
                 $propiedades = mysqli_query($conn, "SELECT * FROM propiedades ORDER BY id DESC LIMIT 10");
